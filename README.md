@@ -1,7 +1,7 @@
 # AWS ReSkill - AWS AI SERVICES by Vivek Raja P S
 
 # Amazon Comprehend:
-Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text.
+Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text.)<br />
 [Get started with Amazon Comprehend](https://console.aws.amazon.com/comprehend/v2/home)<br />
 [Resources](https://aws.amazon.com/comprehend/resources/)
 
