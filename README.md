@@ -51,7 +51,7 @@ Amazon CodeGuru is a developer tool that provides intelligent recommendations to
 [Resources](https://aws.amazon.com/codeguru/resources/)
 
 # Amazon Forecast:
-Amazon Forecast is a fully managed service that uses machine learning to deliver highly accurate forecasts
+Amazon Forecast is a fully managed service that uses machine learning to deliver highly accurate forecasts)<br />
 [Get started with Amazon Forecast](https://console.aws.amazon.com/forecast/home)
 [Resources](https://aws.amazon.com/forecast/resources/)
 
