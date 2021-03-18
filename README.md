@@ -2,8 +2,8 @@
 
 # Amazon Comprehend:
 Amazon Comprehend is a natural language processing (NLP) service that uses machine learning to find insights and relationships in text.
-[Get started with Amazon Comprehend] (https://console.aws.amazon.com/comprehend/v2/home)
-[Resources] (https://aws.amazon.com/comprehend/resources/)
+[Get started with Amazon Comprehend](https://console.aws.amazon.com/comprehend/v2/home)
+[Resources](https://aws.amazon.com/comprehend/resources/)
 
 # Amazon Comprehend Medical:
 Amazon Comprehend Medical is a HIPAA-eligible natural language processing (NLP) service that uses machine learning to extract health data from medical text
