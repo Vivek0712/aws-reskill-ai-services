@@ -16,7 +16,7 @@ Polly's Text-to-Speech (TTS) service uses advanced deep learning technologies to
 [Resources](https://aws.amazon.com/polly/resources/?nc=sn&loc=6)
 
 # Amazon Rekognition
-Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use.
+Amazon Rekognition makes it easy to add image and video analysis to your applications using proven, highly scalable, deep learning technology that requires no machine learning expertise to use.<br />
 [Get Started with Amazon Rekognition](https://console.aws.amazon.com/rekognition/home)<br />
 [Resources](https://aws.amazon.com/rekognition/resources/?nc=sn&loc=6)
 
@@ -28,7 +28,7 @@ Amazon Textract is a fully managed machine learning service that automatically e
 # Amazon Transcribe 
 Amazon Transcribe makes it easy for developers to add speech to text capabilities to their applications. Audio data is virtually impossible for computers to search and analyze.<br />
 [Get Started with Amazon Transcribe](https://console.aws.amazon.com/transcribe/)<br />
-[Resources] ()
+[Resources](https://aws.amazon.com/transcribe/resources/?nc=sn&loc=4)
 
 # Amazon Translate 
 Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation.<br />
