@@ -6,12 +6,12 @@ Amazon Comprehend is a natural language processing (NLP) service that uses machi
 [Resources](https://aws.amazon.com/comprehend/resources/)
 
 # Amazon Comprehend Medical:
-Amazon Comprehend Medical is a HIPAA-eligible natural language processing (NLP) service that uses machine learning to extract health data from medical text
+Amazon Comprehend Medical is a HIPAA-eligible natural language processing (NLP) service that uses machine learning to extract health data from medical text<br />
 [Get started with Amazon Comprehend Medical](https://console.aws.amazon.com/comprehend/home)<br />
 [Resources](https://aws.amazon.com/comprehend/resources/)
 
 # Amazon Polly
-Polly's Text-to-Speech (TTS) service uses advanced deep learning technologies to synthesize natural sounding human speech.
+Polly's Text-to-Speech (TTS) service uses advanced deep learning technologies to synthesize natural sounding human speech.<br />
 [Get started with Amazon Polly](https://console.aws.amazon.com/polly/home)<br />
 [Resources](https://aws.amazon.com/polly/resources/?nc=sn&loc=6)
 
